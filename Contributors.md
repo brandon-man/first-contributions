@@ -17,6 +17,7 @@
 - [Soham Roy](https://github.com/sohamroy19)
 - [Ketki Chavan](https://github.com/Ketkic09)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
+- [Brandon Man] (https://github.com/brandoncoding)
 - [Prashant kumar](https://github.com/pksingh128)
 - [Ksenia](https://github.com/odnaks)
 - [Kathy Bradt](https://github.com/Cygnet717)
